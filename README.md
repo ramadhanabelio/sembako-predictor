@@ -1,4 +1,4 @@
-# Prediksi Diabetes Development Streamlit
+# Prediksi Sembako (Beras) Development Streamlit
 
 ## Tools
 
@@ -16,8 +16,7 @@
 
 ## Algorithms
 
-[![Support Vector Machine](https://img.shields.io/badge/Support%20Vector%20Machine-ff69b4.svg?style=for-the-badge&logo=Support-Vector-Machines&logoColor=white)]()
-[![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-blueviolet.svg?style=for-the-badge&logo=Logistic-Regression&logoColor=white)]()
+[![Linear Regression](https://img.shields.io/badge/Linear%20Regression-339933.svg?style=for-the-badge&logo=Linear-Regression&logoColor=white)]()
 
 ## Link to Streamlit App
 
